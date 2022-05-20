@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651885649 source:g:\otros ordenadores\mi portátil\carpeta drive\utn\1º cuatrimestre\programacion\practica 2 examen\tpn 5 - arreglo paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+
+1651951726 source:c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\practica 2 examen\tpn 5 - arreglo paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+
